@@ -35,7 +35,7 @@ function generateMarkdown(data) {
   - ${data.test}
   
   ## Questions:
-  - Click on my GitHub [link](https://github.com/${data.github})! 
+  - Click on my GitHub [link](https://github.com/${data.github}).
   - If you have any additional questions, I can be reached via <${data.email}>
 `;
 }

@@ -75,12 +75,12 @@ const questions = () => {
         {
             type: 'input',
             name: 'contributing',
-            message: 'Please explain how other developers may contribute to your project',
+            message: 'Please explain how other developers may contribute to your project.',
         },
         {
             type: 'input',
             name: 'test',
-            message: 'Please explain how users may test your project',
+            message: 'Please explain how users may test your project.',
         },
         {
             type: 'input',
@@ -113,10 +113,12 @@ const questions = () => {
 };
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) { }
+function writeFile(fileName, data) { }
 
 // TODO: Create a function to initialize app
 function init() { }
 
 // Function call to initialize app
 init();
+
+
