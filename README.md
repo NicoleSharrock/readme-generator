@@ -21,7 +21,7 @@ As a developer I want a README generator so that I can quickly create a professi
 
 
 ## Preview:
-![screenrecording]
+![screenrecording](./assets/images/readme.gif) 
 
 
 

@@ -1,9 +1,9 @@
-# test
+# readme generator
 
-  [![License](https://img.shields.io/badge/license-Apache%20License%202.0-yellow)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
   ## Description:
-  - test
+  - to quickly and easily generator a readme fil
 
   ## Table of Contents
   - [Installation](#installation)
@@ -15,20 +15,20 @@
 
   ## Installation:
   - To install, please run the following command on your terminal:
-    test
+    doenload inquirer-npm
 
   ## Usage:
-  - test
+  - refer to screen recording
 
   ## License:
-  - Apache License 2.0
+  - MIT
 
   ## Contribution:
-  - test
+  - forking repo
 
   ## Tests:
-  - test
+  - node index in terminal
   
   ## Questions:
-  - Click on my GitHub (https://github.com/test).
-  - If you have any additional questions, I can be reached via <test>
+  - Click on my GitHub (https://github.com/nicolesharrock).
+  - If you have any additional questions, I can be reached via <n.sharrockhayes@gmail.com>
