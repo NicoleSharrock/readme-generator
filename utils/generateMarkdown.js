@@ -3,11 +3,11 @@
 function renderLicenseBadge(license) {
   console.log(license);
   if (license === 'MIT') {
-    return "https://img.shields.io/badge/license-MIT-blue";
+    return `[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)`;
   } else if (license === "ISC") {
-    return "https://img.shields.io/badge/license-ISC-orange";
+    return `[![License: ISC](https://img.shields.io/badge/license-ISC-orange)](https://opensource.org/licenses/ISC)`;
   } else if (license === 'Apache License 2.0') {
-    return "https://img.shields.io/badge/license-Apache%20License%202.0-purple"
+    return `[![License](https://img.shields.io/badge/license-Apache%20License%202.0-yellow)](https://opensource.org/licenses/Apache-2.0)`;
   }
 };
 
@@ -17,7 +17,7 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ${renderLicenseBadge(data.license)}
-  
+
   ## Description:
   - ${data.description}
 
