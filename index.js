@@ -113,12 +113,15 @@ const questions = () => {
 };
 
 // TODO: Create a function to write README file
-function writeFile(fileName, data) { }
+// function writeFile(fileName, data) { }
+
 
 // TODO: Create a function to initialize app
-function init() { }
+// function init() { }
 
 // Function call to initialize app
-init();
+// init();
+
+questions();
 
 
